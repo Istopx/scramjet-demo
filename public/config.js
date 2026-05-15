@@ -1,1 +1,1 @@
-let _CONFIG = {};
+let _CONFIG = {  wisp: "wss://wisp-server.replit.app/wisp/",};
